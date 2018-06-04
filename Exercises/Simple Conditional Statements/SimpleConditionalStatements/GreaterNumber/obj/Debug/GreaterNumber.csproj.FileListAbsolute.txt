@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

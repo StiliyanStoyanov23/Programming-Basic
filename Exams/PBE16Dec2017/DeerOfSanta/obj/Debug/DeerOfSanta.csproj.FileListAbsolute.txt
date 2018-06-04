@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.exe.config
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.exe
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\bin\Debug\DeerOfSanta.pdb
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.exe
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\DeerOfSanta\obj\Debug\DeerOfSanta.pdb

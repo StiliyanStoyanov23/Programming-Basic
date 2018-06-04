@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe.config
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.pdb
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.exe
+D:\SoftUni\Programming Basic\Exercises\Complex Conditional Statements\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\bin\Debug\Sumator.exe.config
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\bin\Debug\Sumator.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\bin\Debug\Sumator.pdb
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.FormCalculate.resources
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Sumator\obj\Debug\Sumator.pdb

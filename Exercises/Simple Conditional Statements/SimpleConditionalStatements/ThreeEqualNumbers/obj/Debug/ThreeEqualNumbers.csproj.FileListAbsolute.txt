@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe.config
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.pdb
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.pdb

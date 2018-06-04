@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\bin\Debug\Expression.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\bin\Debug\Expression.pdb
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb

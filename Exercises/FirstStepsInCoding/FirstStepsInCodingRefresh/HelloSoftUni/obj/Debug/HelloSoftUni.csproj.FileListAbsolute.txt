@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\obj\Debug\HelloSoftUni.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

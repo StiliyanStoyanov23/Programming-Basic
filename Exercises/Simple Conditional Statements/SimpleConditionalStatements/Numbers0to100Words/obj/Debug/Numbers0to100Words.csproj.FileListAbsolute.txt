@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\bin\Debug\Numbers0to100Words.exe.config
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\bin\Debug\Numbers0to100Words.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\bin\Debug\Numbers0to100Words.pdb
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\obj\Debug\Numbers0to100Words.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\obj\Debug\Numbers0to100Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\obj\Debug\Numbers0to100Words.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers0to100Words\obj\Debug\Numbers0to100Words.pdb

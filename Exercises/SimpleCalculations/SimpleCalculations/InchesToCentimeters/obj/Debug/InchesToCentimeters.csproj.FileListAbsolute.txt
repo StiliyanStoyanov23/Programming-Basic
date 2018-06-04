@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

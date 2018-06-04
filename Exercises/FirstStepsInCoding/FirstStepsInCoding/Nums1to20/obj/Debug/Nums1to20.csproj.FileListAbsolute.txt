@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\bin\Debug\Nums1to20.exe.config
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\bin\Debug\Nums1to20.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\bin\Debug\Nums1to20.pdb
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\obj\Debug\Nums1to20.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\obj\Debug\Nums1to20.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCoding\Nums1to20\obj\Debug\Nums1to20.pdb

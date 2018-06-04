@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\bin\Debug\Expression.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\bin\Debug\Expression.pdb
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\obj\Debug\Expression.exe
+D:\SoftUni\Programming Basic\Exercises\FirstStepsInCoding\FirstStepsInCodingRefresh\Expression\obj\Debug\Expression.pdb

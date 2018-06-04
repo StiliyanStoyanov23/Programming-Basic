@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.pdb
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb

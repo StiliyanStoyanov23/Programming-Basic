@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\bin\Debug\IvanoviFamily.exe.config
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\bin\Debug\IvanoviFamily.exe
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\bin\Debug\IvanoviFamily.pdb
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\obj\Debug\IvanoviFamily.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\obj\Debug\IvanoviFamily.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\obj\Debug\IvanoviFamily.exe
+D:\SoftUni\Programming Basic\Exams\PBE17Dec2017\IvanoviFamily\obj\Debug\IvanoviFamily.pdb

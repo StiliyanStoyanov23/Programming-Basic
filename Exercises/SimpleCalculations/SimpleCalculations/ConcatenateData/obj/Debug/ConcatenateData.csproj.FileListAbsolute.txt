@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.pdb

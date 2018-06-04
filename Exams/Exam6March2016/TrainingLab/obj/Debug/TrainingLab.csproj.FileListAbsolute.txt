@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\bin\Debug\TrainingLab.exe.config
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\bin\Debug\TrainingLab.exe
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\bin\Debug\TrainingLab.pdb
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\obj\Debug\TrainingLab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\obj\Debug\TrainingLab.exe
+D:\SoftUni\Programming Basic\Exams\Exam6March2016\TrainingLab\obj\Debug\TrainingLab.pdb

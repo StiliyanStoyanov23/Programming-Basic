@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingLab", "TrainingLab\TrainingLab.csproj", "{27CD6E9B-05A3-46BF-93D4-F9CE667F575C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportPrice", "TransportPrice\TransportPrice.csproj", "{349C3C3D-719E-4BF0-9D9E-0930B0163D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD6E9B-05A3-46BF-93D4-F9CE667F575C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CD6E9B-05A3-46BF-93D4-F9CE667F575C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CD6E9B-05A3-46BF-93D4-F9CE667F575C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CD6E9B-05A3-46BF-93D4-F9CE667F575C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349C3C3D-719E-4BF0-9D9E-0930B0163D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349C3C3D-719E-4BF0-9D9E-0930B0163D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349C3C3D-719E-4BF0-9D9E-0930B0163D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349C3C3D-719E-4BF0-9D9E-0930B0163D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA235548-9902-42CB-9435-C218FFDC634E}
+	EndGlobalSection
+EndGlobal

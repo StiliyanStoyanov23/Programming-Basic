@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\bin\Debug\Numbers100to200.exe.config
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\bin\Debug\Numbers100to200.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\bin\Debug\Numbers100to200.pdb
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\obj\Debug\Numbers100to200.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\obj\Debug\Numbers100to200.exe
+D:\SoftUni\Programming Basic\Exercises\Simple Conditional Statements\SimpleConditionalStatements\Numbers100to200\obj\Debug\Numbers100to200.pdb

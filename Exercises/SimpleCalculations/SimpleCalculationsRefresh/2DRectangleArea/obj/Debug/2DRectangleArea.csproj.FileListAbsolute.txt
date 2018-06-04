@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\bin\Debug\2DRectangleArea.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\bin\Debug\2DRectangleArea.pdb
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\obj\Debug\2DRectangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\obj\Debug\2DRectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\obj\Debug\2DRectangleArea.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\2DRectangleArea\obj\Debug\2DRectangleArea.pdb

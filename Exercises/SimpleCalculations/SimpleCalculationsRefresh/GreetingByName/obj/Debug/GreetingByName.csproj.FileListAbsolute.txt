@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\bin\Debug\GreetingByName.exe.config
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\bin\Debug\GreetingByName.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\bin\Debug\GreetingByName.pdb
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\obj\Debug\GreetingByName.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculationsRefresh\GreetingByName\obj\Debug\GreetingByName.pdb

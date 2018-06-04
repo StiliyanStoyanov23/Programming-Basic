@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.exe
+D:\SoftUni\Programming Basic\Exercises\SimpleCalculations\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.pdb

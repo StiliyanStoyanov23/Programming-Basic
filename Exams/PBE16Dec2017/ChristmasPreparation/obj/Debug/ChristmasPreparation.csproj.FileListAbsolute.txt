@@ -1,0 +1,7 @@
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\bin\Debug\ChristmasPreparation.exe.config
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\bin\Debug\ChristmasPreparation.exe
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\bin\Debug\ChristmasPreparation.pdb
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\obj\Debug\ChristmasPreparation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\obj\Debug\ChristmasPreparation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\obj\Debug\ChristmasPreparation.exe
+D:\SoftUni\Programming Basic\Exams\PBE16Dec2017\ChristmasPreparation\obj\Debug\ChristmasPreparation.pdb
